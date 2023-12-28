@@ -2,6 +2,7 @@
 
 Concepts Used: 
 Inheritance IS-A, HAS-A
+encapsulation
 Function Overloading
 Data Abstraction
 Polymorphism
